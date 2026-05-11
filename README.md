@@ -4,10 +4,6 @@
   # 🚀 SectorHLabs
   ### *Transformando ideas complejas en experiencias digitales excepcionales*
 
-  [![Website](https://img.shields.io/badge/Website-SectorHLabs-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sectorhlabs.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/sectorhlabs)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sectorhlabs)
-
   ---
 </div>
 
@@ -52,7 +48,7 @@ Somos un estudio de desarrollo boutique especializado en la intersección del **
 
 <div align="center">
   <p>📬 <b>¿Tienes un proyecto en mente?</b> ¡Hablemos! <br> 
-  <a href="mailto:info@sectorhlabs.com">info@sectorhlabs.com</a></p>
+  <a href="mailto:sectorhlabs@proton.me">sectorhlabs@proton.me</a></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>

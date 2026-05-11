@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sectorhlabs/sectorhlabs/main/assets/banner.jpg" width="100%" alt="SectorHLabs Banner" />
+  <img src="https://raw.githubusercontent.com/sectorhlabs/sectorhlabs/main/assets/banner.png" width="100%" alt="SectorHLabs Banner" />
   
   # 🚀 SectorHLabs
   ### *Transformando ideas complejas en experiencias digitales excepcionales*

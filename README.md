@@ -37,11 +37,11 @@ Somos un estudio de desarrollo boutique especializado en la intersección del **
 
 ---
 
-## 📊 Estadísticas de Actividad
+## 📊 Nuestra Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sectorhlabs&show_icons=true&theme=tokyonight&count_private=true" alt="SectorHLabs Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sectorhlabs&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sectorhlabs&show_icons=true&theme=tokyonight&hide_border=true" alt="SectorHLabs Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sectorhlabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170px" />
 </div>
 
 ---

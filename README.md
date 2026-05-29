@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sectorhlabs/sectorhlabs/main/assets/banner.png" width="100%" alt="SectorHLabs Banner" />
   
   # SectorHLabs
-  ### *Transformando ideas complejas en experiencias digitales excepcionales*
+  ### *Transformando ideas en experiencias digitales*
 
   ---
 </div>

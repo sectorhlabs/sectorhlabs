@@ -7,11 +7,7 @@
   ---
 </div>
 
-## 🛠️ Sobre Nosotros
-
-Somos un estudio de desarrollo especializado en la intersección del **Game Dev**, **Mobile Apps** y **Arquitectura de Software**. Diseñamos soluciones escalables y experiencias inmersivas.
-
-### 🌟 Proyectos Destacados
+### 🌟 Proyectos
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |

@@ -9,7 +9,7 @@
 
 ## 🛠️ Sobre Nosotros
 
-Somos un estudio de desarrollo boutique especializado en la intersección del **Game Dev**, **Mobile Apps** y **Arquitectura de Software**. No solo escribimos código; diseñamos soluciones escalables y experiencias inmersivas.
+Somos un estudio de desarrollo especializado en la intersección del **Game Dev**, **Mobile Apps** y **Arquitectura de Software**. Diseñamos soluciones escalables y experiencias inmersivas.
 
 ### 🌟 Proyectos Destacados
 
